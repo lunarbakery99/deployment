@@ -13,7 +13,7 @@ spec:
   ports:
   - nodePort: 31000
     port: 8000
-    targetPort: 8000
+    targetPort: 80
 ---
 apiVersion: apps/v1
 kind: Deployment
