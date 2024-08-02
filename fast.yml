@@ -32,4 +32,4 @@ spec:
     spec:
       containers:
       - name: fast-con
-        image: kyungyeonmoon/fast:21
+        image: kyungyeonmoon/fast:22
